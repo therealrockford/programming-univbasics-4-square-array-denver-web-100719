@@ -1,11 +1,11 @@
 
 
 def square_array(array)
-  new_array[]
-  counter = o 
+  new_array = []
+  counter = 0  
   
-  while array[counter] do 
-   puts array**
+  while array < array.length do 
+    array << new_array
     counter += 1 
   end 
 end
