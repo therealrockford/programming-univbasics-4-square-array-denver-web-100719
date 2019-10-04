@@ -1,6 +1,7 @@
 
 
 def square_array(array)
+  new_array[]
   counter = o 
   
   while array[counter] do 
