@@ -1,6 +1,10 @@
 
 
 def square_array(array)
-  whi
-  puts array**
+  counter = o 
+  
+  while array[counter] do 
+   puts array[counter**]
+    counter += 1 
+  end 
 end
