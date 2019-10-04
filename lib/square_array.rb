@@ -11,9 +11,3 @@ def square_array(array)
   new_array
 end
 
-def square_array(array)
-  new_array = []
-  counter = 0 
-  
-  while counter < array.length do 
-end
